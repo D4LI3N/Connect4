@@ -46,7 +46,7 @@
 /* ++++++++++ BANNERS AND SCREENS ++++++++++ */
 const char mainBanner[] = "\n\
    			                        \033[91m     Final Project \033[0m    \n\
-   \033[91mStudent: Daniel Petrovich				                                  Professor: Marko Tanaskovic\033[0m \n\
+   \033[91mStudent: Daniel Petrovich				                                  Professor: X\033[0m \n\
 \n\
    			            \033[94m   ______\033[0m       \033[34m2 Player Game\033[0m      \033[94m  __     __ __     \n\
    			              / ____/___  ____  ____  ___  _____/ /_   / // /     \n\
