@@ -6,7 +6,7 @@
 
 /*################################################################################*\
   #   ASSIGNMENT:  Final Project - Connect 4 Game (two players game)             #
-  #    PROFESSOR:  Marko Tanaskovic                                              #
+  #    PROFESSOR:  X                                                             #
   #     DUE DATE:  29.01.2020                                                    #
   #                                                                              # 
   #       AUTHOR:  Daniel Petrovich                                              #
